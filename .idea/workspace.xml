@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="453a13a3-8438-495c-b6fc-83e366515a1b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Templates/login.html" afterPath="$PROJECT_DIR$/Templates/login.html" />
     </list>
     <ignored path="realtimepythonchat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,9 +37,11 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-              <folding />
+            <state relative-caret-position="226">
+              <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="153" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,8 +60,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="212" />
-    <option name="y" value="396" />
+    <option name="x" value="-34" />
+    <option name="y" value="369" />
     <option name="width" value="1251" />
     <option name="height" value="656" />
   </component>
@@ -292,7 +295,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="396" width="1251" height="656" extended-state="0" />
+    <frame x="-34" y="369" width="1251" height="656" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -332,9 +335,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="77" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="77" />
-          <folding />
+        <state relative-caret-position="226">
+          <caret line="40" column="153" selection-start-line="40" selection-start-column="153" selection-end-line="40" selection-end-column="153" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
