@@ -20,4 +20,9 @@ def login():
 
 @socketio.on('message', namespace='/chat')
 def chat_message(message):
-    emit('message', {'data': message['data']}, broadcast = True
+    emit('message', {'data': message['data']}, broadcast = True)
+@socketio.on('connect', namespace='/chat')
+def test_connect():
+    emit('my response', {'data': 'connected', 'count': 0})
+if __name__ == '__main__':
+    socketio.run(app)
